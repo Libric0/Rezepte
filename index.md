@@ -2,7 +2,8 @@
 title: Rezepte
 ---
 
-# Meine Rezepte
+# Gebäck
+## Süßes
 
 - [Käsekuchen](Käsekuchen.html)
 - [Käsekuchen mit Mohnfüllung](Käsekuchen mit Mohnfüllung.html)
