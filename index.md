@@ -2,7 +2,7 @@
 title: Rezepte
 ---
 # Vorkochen
-- [Chili Sin Carne](Chili sin Carne.html)
+- [Chili Sin Carne](Chili Sin Carne.html)
 
 # Gebäck
 ## Süßes
