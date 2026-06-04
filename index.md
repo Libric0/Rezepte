@@ -3,6 +3,7 @@ title: Rezepte
 ---
 # Vorkochen
 - [Chili Sin Carne](Chili Sin Carne.html)
+- [Rauchbolo](Rauchbolo.html)
 
 # Gebäck
 ## Süßes
